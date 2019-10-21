@@ -1,0 +1,23 @@
+{
+  "name": "react-native-uat-alert",
+  "version": "1.0.0",
+  "description": "弹窗组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark5566/react-native-uat-alert.git"
+  },
+  "keywords": [
+    "alert",
+    "toast"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark5566/react-native-uat-alert/issues"
+  },
+  "homepage": "https://github.com/mark5566/react-native-uat-alert#readme"
+}
